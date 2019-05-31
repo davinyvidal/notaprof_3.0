@@ -4,7 +4,7 @@
 *
 * Todos direitos reservado (c).
 *
-* Autor: Daivny Vidal.
+* Autora: Daviny Vidal.
 *
 */
 

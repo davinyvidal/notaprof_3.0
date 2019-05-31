@@ -9,5 +9,5 @@ Se gostou do projeto e gostaria de adaptar deixo disponível no meu GitHub o có
  - [Blog pessoal no github](https://davinyvidal.github.io)
 
 
-
+![Screenshot](https://github.com/davinyvidal/notaprof_3.0/blob/master/np-temas/Temas/pure/Screenshot.png?raw=true)
 
