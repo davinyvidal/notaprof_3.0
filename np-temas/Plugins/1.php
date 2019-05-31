@@ -25,8 +25,8 @@ if (isset($proteger)) {
 	if($proteger == 1){
 	
 ?>	<b>Conversor de cores em valores - Resistor</b><br>
-	<iframe src="http://pereira.pro.br/projeto.php?name=125" name=conteudo width=600 height=350 border="0" frameborder="0"></iframe>
-		 
+	<?php // Neste plugin eu crie um iframe com um sistema de Simulador de Resistor ?>
+	
 <?php
 	}
 }else{
