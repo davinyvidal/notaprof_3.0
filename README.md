@@ -1,8 +1,8 @@
-# NotaProf 3.0 PHP5
+> Esta página é oficial, criada no 31 março 2019.
 
-Este projeto esta na licença GNU/Linux. 
+Projeto esta na licença GNU/Linux. Respeite os direitos 2019 (c)
 
-Versão 3.0
+Versão 3.0 do NotaProf 3.0
 
 Gostou do projeto e gostaria de adaptar, disponíbilizo no meu GitHub o código fonte, mas peço por gentileza que mantém o nome da autora: Daviny Vidal - [GitHub](https://github.com/davinyvidal)
 
