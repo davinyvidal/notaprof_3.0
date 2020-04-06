@@ -1,5 +1,4 @@
-NotaProf
-========================
+# NotaProf 3.0 PHP5
 
 Este projeto esta na licença GNU/Linux. 
 
