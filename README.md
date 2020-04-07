@@ -1,4 +1,4 @@
-> Esta página é oficial, criada no 31 março 2019.
+> Esta página é oficial, criada no dia 31 março 2019.
 
 Projeto esta na licença GNU/Linux. Respeite os direitos 2019 (c)
 
